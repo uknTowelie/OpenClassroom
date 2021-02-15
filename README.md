@@ -1,7 +1,6 @@
 # OpenClassroom
 
-# release
-# version 0.0.0
-
-# update
-# version 0.0.1
+# Projet 1
+Commande pip :
+python3 -m venv .venv
+pip install bs4
